@@ -1,0 +1,7 @@
+C:/Users/Bartek/Desktop/Arkusz/build/CMakeFiles/install/local.dir
+C:/Users/Bartek/Desktop/Arkusz/build/CMakeFiles/install.dir
+C:/Users/Bartek/Desktop/Arkusz/build/CMakeFiles/edit_cache.dir
+C:/Users/Bartek/Desktop/Arkusz/build/CMakeFiles/Sheet.dir
+C:/Users/Bartek/Desktop/Arkusz/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Bartek/Desktop/Arkusz/build/CMakeFiles/list_install_components.dir
+C:/Users/Bartek/Desktop/Arkusz/build/CMakeFiles/install/strip.dir

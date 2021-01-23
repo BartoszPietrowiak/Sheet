@@ -1,0 +1,27 @@
+[
+{
+  "directory": "C:/Users/Bartek/Desktop/Arkusz/build",
+  "command": "C:\\MinGw\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/Sheet.dir/includes_CXX.rsp -g -o CMakeFiles\\Sheet.dir\\src\\main.cpp.obj -c C:\\Users\\Bartek\\Desktop\\Arkusz\\src\\main.cpp",
+  "file": "C:/Users/Bartek/Desktop/Arkusz/src/main.cpp"
+},
+{
+  "directory": "C:/Users/Bartek/Desktop/Arkusz/build",
+  "command": "C:\\MinGw\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/Sheet.dir/includes_CXX.rsp -g -o CMakeFiles\\Sheet.dir\\src\\Cell.cpp.obj -c C:\\Users\\Bartek\\Desktop\\Arkusz\\src\\Cell.cpp",
+  "file": "C:/Users/Bartek/Desktop/Arkusz/src/Cell.cpp"
+},
+{
+  "directory": "C:/Users/Bartek/Desktop/Arkusz/build",
+  "command": "C:\\MinGw\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/Sheet.dir/includes_CXX.rsp -g -o CMakeFiles\\Sheet.dir\\src\\Sheet.cpp.obj -c C:\\Users\\Bartek\\Desktop\\Arkusz\\src\\Sheet.cpp",
+  "file": "C:/Users/Bartek/Desktop/Arkusz/src/Sheet.cpp"
+},
+{
+  "directory": "C:/Users/Bartek/Desktop/Arkusz/build",
+  "command": "C:\\MinGw\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/Sheet.dir/includes_CXX.rsp -g -o CMakeFiles\\Sheet.dir\\src\\Chart.cpp.obj -c C:\\Users\\Bartek\\Desktop\\Arkusz\\src\\Chart.cpp",
+  "file": "C:/Users/Bartek/Desktop/Arkusz/src/Chart.cpp"
+},
+{
+  "directory": "C:/Users/Bartek/Desktop/Arkusz/build",
+  "command": "C:\\MinGw\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/Sheet.dir/includes_CXX.rsp -g -o CMakeFiles\\Sheet.dir\\src\\RangeException.cpp.obj -c C:\\Users\\Bartek\\Desktop\\Arkusz\\src\\RangeException.cpp",
+  "file": "C:/Users/Bartek/Desktop/Arkusz/src/RangeException.cpp"
+}
+]

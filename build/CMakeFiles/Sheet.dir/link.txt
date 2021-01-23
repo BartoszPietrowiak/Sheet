@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Sheet.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Sheet.dir/objects.a @CMakeFiles\Sheet.dir\objects1.rsp
+C:\MinGw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Sheet.dir/objects.a -Wl,--no-whole-archive -o ..\Sheet.exe -Wl,--out-implib,libSheet.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sheet.dir\linklibs.rsp
